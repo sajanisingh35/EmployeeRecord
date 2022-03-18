@@ -1,0 +1,41 @@
+[
+
+  {
+    "id": 1,
+    "fullName": "Tom ",
+    "address": "Cartoon Network",
+    "phoneNumber": "987654310",
+    "email": "tom@email.com"
+  },
+  {
+    "id": 2,
+    "fullName": "Jerry",
+    "address": "Cartoon Network",
+    "phoneNumber": "986577516",
+    "email": "jerry@email.com"
+  },
+  {
+    "id": 3,
+    "fullName": "Doremon",
+    "address": "Disney",
+    "phoneNumber": "9853247516",
+    "email": "doreamon@email.com"
+  },
+  {
+    "id": 4,
+    "fullName": "Sajani Singh",
+    "address": "Phutung",
+    "phoneNumber": "9868300000",
+    "email": "sajani@email.com"
+  },
+  {
+    "id": 5,
+    "fullName": "Sita",
+    "address": "Sitapaila",
+    "phoneNumber": "98654357516",
+    "email": "sita@email.com"
+ 
+  }
+
+]
+
